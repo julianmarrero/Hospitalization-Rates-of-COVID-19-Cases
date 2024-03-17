@@ -1,6 +1,6 @@
 # Hospitalization-Rates-of-COVID-19-Cases
 ## DOWNLOADING DATA 
-In the Scripts folder, 01-download_data.R is the script to download the dataset using the opendatatoronto R package. If you want to download the data from your browser:
+In the Scripts folder, 01-download_data.R is the script to download the dataset using the opendatatoronto R package. The csv file that stores the data was unable to be added to this github repository as it was too big. If you want to download the data from your browser:
 1. Go to https://open.toronto.ca/dataset/covid-19-cases-in-toronto/.
 2. Scroll down to 'Download Data'
 3. Download the dataset as a CSV file.
